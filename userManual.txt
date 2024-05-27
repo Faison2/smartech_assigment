@@ -1,0 +1,15 @@
+1: task 1 Web Application 
+2: in this project I used templating engine of PHP Laravel Blade and VS Code
+3: for it to work properly you should have PHP 8.0.2 and any version of vs code 
+4: first run composer install in the terminal 
+5: details to the admin login 
+    email: admin1@gmail.com
+    password: admin1234
+- for admin there is no option to register or create account 
+- to change the login details for the admin you go through files
+ that is from database->migration->seeders then adminseeders.php
+6: index page will allows to register or to login 
+7: for one to register should have a working email account
+8: for gmail it will be in the spam
+9: after log in you can apply for the property 
+10: for the admin after log in you
